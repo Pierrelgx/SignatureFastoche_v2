@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://pierrelegoux.fr"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Bonjour ceci est un test pour voir si tout fonctionne
         </a>
       </header>
     </div>
@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+ 
